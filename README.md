@@ -1,4 +1,4 @@
-# Fast-RCNN-and-DETR-Deep-Learning-Algorithm-on-Golobal-Wheat-dataset
+# Fast-RCNN-and-DETR-Deep-Learning-Algorithm-on-Global-Wheat-dataset
 
 Overview and Summary
 In this notebook, Faster R-CNN and DETR is implemneted on the wheat dataset. The dataset has been imported from: global-wheat datasets on Kaggle: https://www.kaggle.com/c/global-wheat-detection/data?select=train
